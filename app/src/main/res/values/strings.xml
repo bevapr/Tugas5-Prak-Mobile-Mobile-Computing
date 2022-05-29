@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Praktikum 5</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Actionshort</string>
+    <string name="prompt_password">Masukkan Password Anda</string>
+    <string name="prompt_email">Masukkan e-Mail Anda</string>
+    <string name="error_invalid_email">error</string>
+    <string name="error_invalid_password">error</string>
+    <string name="error_field_required">error</string>
+</resources>
